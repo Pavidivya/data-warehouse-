@@ -138,4 +138,6 @@ Step 2: Install Jupyter Notebook. ...
 Step 3: Launch Jupyter Notebook
 
 #installation
-GitHub respositry link
+GitHub respositry link:https://github.com/Pavidivya/data-warehouse-.git
+run the code in jupyter anaconda, command prompt 
+
